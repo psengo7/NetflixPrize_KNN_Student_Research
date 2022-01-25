@@ -1,4 +1,5 @@
-
+# To Read Report: 
+* More information on how this project was run and the end results can be found by clicking the "Final_Report.pdf" link in the repository.
 # Instructions to run project: 
 1. Extract the files from this repository. 
 2. Within the directory containing the extracted files create a folder called "Data" in the directory.
